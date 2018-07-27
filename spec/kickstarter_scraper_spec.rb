@@ -1,4 +1,5 @@
 require 'nokogiri'
+require 'pry'
 
 describe "#create_project_hash" do
 
